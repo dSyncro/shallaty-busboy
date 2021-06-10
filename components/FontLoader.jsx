@@ -6,7 +6,7 @@ export default function FontLoader() {
         <Head>
             <link rel="preconnect"
                 href="https://fonts.gstatic.com"
-                crossorigin />
+                crossOrigin />
             <link
                 rel="preload"
                 as="style"
